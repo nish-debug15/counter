@@ -2,3 +2,5 @@ hi im nishit
 2nd year cs student
 im into ml
 aspiring to be a SWE-ML at JP MorganChase
+
+im currently deep diving into system design and dsa 
